@@ -1,0 +1,27 @@
+>hsa-let-7c MI0000064
+GCAUCCGGGUUGAGGUAGUAGGUUGUAUGGUUUAGAGUUACACCCUGGGAGUUAACUGUACAACCUUCUAGCUUUCCUUGGAGC
+((.((((((..(((.(((.(((((((((((((..((.(..((...))..).))))))))))))))).))).)))..)))))))) (-31.60)
+>hsa-let-7d MI0000065
+CCUAGGAAGAGGUAGUAGGUUGCAUAGUUUUAGGGCAGGGAUUUUGCCCACAAGGAGGUAACUAUACGACCUGCUGCCUUUCUUAGG
+(((((((.((((((((((((((.((((((...((((((.....))))))..........)))))).))))))))))))))))))))) (-42.70)
+>hsa-let-7e MI0000066
+CCCGGGCUGAGGUAGGAGGUUGUAUAGUUGAGGAGGACACCCAAGGAGAUCACUAUACGGCCUCCUAGCUUUCCCCAGG
+((.(((..(((.((((((((((((((((.((((.(....))).......)))))))))))))))))).)))..))).)) (-36.70)
+>hsa-let-7f-1 MI0000067
+UCAGAGUGAGGUAGUAGAUUGUAUAGUUGUGGGGUAGUGAUUUUACCCUGUUCAGGAGAUAACUAUACAAUCUAUUGCCUUCCCUGA
+((((.(.((((((((((((((((((((((((((((((.....))))))).........))))))))))))))))))))))).))))) (-42.30)
+>hsa-let-7f-2 MI0000068
+UGUGGGAUGAGGUAGUAGAUUGUAUAGUUUUAGGGUCAUACCCCAUCUUGGAGAUAACUAUACAGUCUACUGUCUUUCCCACG
+.((((((.(((((((((((((((((((((...((((...)))).((((...))))))))))))))))))))))))))))))). (-39.00)
+>hsa-let-7g MI0000433
+AGGCUGAGGUAGUAGUUUGUACAGUUUGAGGGUCUAUGAUACCACCCGGUACAGGAGAUAACUGUACAGGCCACUGCCUUGCCA
+.(((.((((((((.((((((((((((.....((((.((.((((....))))))..)))))))))))))))).))))))))))). (-38.90)
+>hsa-let-7i MI0000434
+CUGGCUGAGGUAGUAGUUUGUGCUGUUGGUCGGGUUGUGACAUUGCCCGCUGUGGAGAUAACUGCGCAAGCUACUGCCUUGCUA
+.((((.(((((((((((((((((.(((((.(((((.........)))))))........))).))))))))))))))))))))) (-39.90)
+>hsa-mir-1-2 MI0000437
+ACCUACUCAGAGUACAUACUUCUUUAUGUACCCAUAUGAACAUACAAUGCUAUGGAAUGUAAAGAAGUAUGUAUUUUUGGUAGGC
+.((((((.(((((((((((((((((((((..(((((..(........)..))))).))))))))))))))))))))).)))))). (-36.40)
+>hsa-mir-7-1 MI0000263
+UUGGAUGUUGGCCUAGUUCUGUGUGGAAGACUAGUGAUUUUGUUGUUUUUAGAUAACUAAAUCGACAACAAAUCACAGUCUGCCAUAUGGCACAGGCCAUGCCUCUACAG
+.((((.((((((((.((.((((((((.(((((.(((((((.(((((((((((....)))))..)))))))))))))))))).)))))))).)))))))).)).))))... (-47.60)
